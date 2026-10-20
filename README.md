@@ -79,17 +79,7 @@ planto_app
 
 ---
 
-## ▶️ Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Alshaimaa00/planto_app.git
-   ```
-2. Open `plant.xcodeproj` in Xcode.
-3. Select an iPhone simulator (or your device).
-4. Press **Run** (⌘ + R).
-
----
 
 ## 🎨 Design
 
